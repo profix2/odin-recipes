@@ -1,0 +1,38 @@
+* {
+    font-family: Garamond, "Times New Roman", serif;
+}
+
+body {
+    border: 22px groove black;
+}
+
+.title,
+.title-two {
+    text-align: center;
+}
+
+.title {
+    background-color: #e93440;
+    color: #ffdb58;
+    border-bottom: 4px outset black;
+    padding: 20px 0px;
+    margin-top: 0px;
+    font-size: 65px;
+}
+
+.title-two {
+    font-size: 28px;
+    margin: auto 23em;
+    border-bottom: 4px dotted black;
+}
+
+.link-list {
+    width: 300px;
+    margin: 16px auto;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.link-list.last {
+    margin-bottom: 25px;
+}
